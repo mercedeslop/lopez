@@ -1,0 +1,28 @@
+.navbar{
+    background-color:rgb(11, 164, 241);
+    box-shadow: 0 2px 4px black ;
+    min-height: 100px;
+
+}
+.nav-link{
+    color:#1a1a1a;
+    margin-right: 15px;
+
+}
+.nav-link:hover{
+    color: #1a1a1a;
+}
+.logo{
+    min-width: 100px;
+    max-width: 100px;
+    margin-left: 60px;
+}
+.navbar-toggler{
+    font-size: 40px;
+}
+.navbar-toggler:focus{
+    outline: none;
+}
+.bg-dark{
+    min-height: 30px;
+}
